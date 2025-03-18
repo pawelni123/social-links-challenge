@@ -5,18 +5,20 @@
     padding: 0;
     box-sizing: border-box;
     font-family: 'Inter', 'sans-serif';
+    overflow-x: hidden;
+
 
 }
 
 body {
     overflow-x: hidden;
     background-color: hsl(0, 0%, 8%);
-
+    width: 100vw;
 }
 
 .social__container.container {
     background-color: hsl(0, 0%, 8%);
-    width: 1400px;
+    max-width: 1400px;
     height: 100vh;
     display: flex;
     align-items: center;
