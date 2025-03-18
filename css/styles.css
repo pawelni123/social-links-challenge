@@ -8,9 +8,10 @@
 
 }
 
-html,
 body {
     overflow-x: hidden;
+    background-color: hsl(0, 0%, 8%);
+
 }
 
 .social__container.container {
@@ -19,6 +20,7 @@ body {
     height: 100vh;
     display: flex;
     align-items: center;
+    margin: 0 auto;
 }
 
 .social__card {
