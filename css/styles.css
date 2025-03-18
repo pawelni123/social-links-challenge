@@ -34,7 +34,7 @@ body {
     border: 1px solid #111;
     flex-shrink: 0;
     padding: 30px;
-    gap: 10px;
+    gap: 11px;
 }
 
 .social__card-photo {
